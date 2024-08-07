@@ -45,7 +45,7 @@ const Team = () => {
       <div className="card bg-base-100 w-96 shadow-xl">
         <figure className="px-10 pt-10">
           <Image
-            src={person1}
+            src={person2}
             alt="Shoes"
             className="rounded-xl"
           />
@@ -67,7 +67,7 @@ const Team = () => {
       <div className="card bg-base-100 w-96 shadow-xl">
         <figure className="px-10 pt-10">
           <Image
-            src={person1}
+            src={person3}
             alt="Shoes"
             className="rounded-xl"
           />
